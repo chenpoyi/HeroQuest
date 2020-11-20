@@ -1,0 +1,22 @@
+/////
+A. With Master Branch Only.
+1.Add new Code
+2. You need to Add and commit your code into your local machine
+3. Push the changes to the GIT Hub
+
+B. With Master and Feature Branch
+1.We need to follow the practice with both branches as such
+
+i. We are on Master Branch:
+ii. We add Code and commit locally
+iii. We need to push it ????? (Before that we need to do the git pull so that all the changes from the GITHUB are in sync with the my local code)
+iv. Then again we push the changes from my local to the GITHUB. It's a courtesy call to ask everyone to sync their local repositories with the GITHUB)
+v.We follow exactly the same principles for any feature branch.
+
+C. Merging
+The golden princple is:
+1. Make sure that master branch is perfectly in sync with the GITHUB MAster Branch
+2. Make sure that the feature branch is perfectly in sync with the GITHUB Feature Branch
+if Point 1 and Point 2 are True, only then then checkout master and then merge it.
+3. We merge the branch with the master,
+4.WE need to push the master branch to the GITHUB again and then send a courtesy email to everyone for syncing of the GITHUB
